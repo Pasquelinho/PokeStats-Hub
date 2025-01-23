@@ -18,6 +18,10 @@ PokéPokeStats Hub es una aplicación web moderna construida con React que sirve
 
 ## 💻 Instalación
 
+Ingresar a este link y descargar
+
+https://www.dropbox.com/scl/fi/nqvnsjzv5uijqekz1eesa/EVIDENCIA-DE-PRODUCTO-Jean-Phillipe-Pasquel-Gomez-Ana-Paula-Giraldo.rar?rlkey=ym1tik5kmc2m3e35lz7sric9x&st=sx41mayl&dl=0
+
 ```bash
 git clone https://github.com/Pasquelinho/Pokestats-Hub.git
 cd pokeverso
